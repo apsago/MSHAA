@@ -3,7 +3,8 @@ import csv
 import time
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs
-import re
+from datetime import datetime
+import re 
 
 BASE_URL = "https://www.mshsaa.org"
 SCHOOL_PAGE = "https://www.mshsaa.org/MySchool/Schedule.aspx?s={school_id}"
@@ -14,45 +15,16 @@ schools = [
     {"school_name": "Columbia Independent", "school_id": 566},
     {"school_name": "Christian Fellowship", "school_id": 1099},
     {"school_name": "Father Tolton", "school_id": 917},
-    {"school_name": "Battle High School", "school_id": 953},
-    {"school_name": "Rock Bridge High School", "school_id": 578},
-    {"school_name": "Hickman High School", "school_id": 85},
-    {"school_name": "Hallsville High School", "school_id": 311},
-    {"school_name": "Centralia High School", "school_id": 53},
-    {"school_name": "Southern Boone High School", "school_id": 2},
-    {"school_name": "Glasgow High School", "school_id": 302},
-    {"school_name": "Harrisburg High School", "school_id": 313},
-    {"school_name": "Higbee High School", "school_id": 317},
-    {"school_name": "Jefferson City High School", "school_id": 84},
-    {"school_name": "Helias High School", "school_id": 522},
-    {"school_name": "Capital City High School", "school_id": 1540},
-    {"school_name": "Blair Oaks High School", "school_id": 217},
-    {"school_name": "Fulton High School", "school_id": 80},
-    {"school_name": "Boonville High School", "school_id": 16},
-    {"school_name": "Mexico High School", "school_id": 128},
-    {"school_name": "Moberly High School", "school_id": 132},
-    {"school_name": "California High School", "school_id": 582},
-    {"school_name": "Camdenton High School", "school_id": 26},
-    {"school_name": "Eldon High School", "school_id": 278},
-    {"school_name": "Fayette High School", "school_id": 294},
-    {"school_name": "Marshall High School", "school_id": 360},
-    {"school_name": "Missouri Military Academy", "school_id": 569},
-    {"school_name": "North Callaway High School", "school_id": 139},
-    {"school_name": "Russellville High School", "school_id": 430},
-    {"school_name": "Salisbury High School", "school_id": 431},
-    {"school_name": "Osage High School", "school_id": 152},
-    {"school_name": "Smith-Cotton High School", "school_id": 194},
-    {"school_name": "South Callaway High School", "school_id": 197},
-    {"school_name": "Tipton High School", "school_id": 474},
-    {"school_name": "Versailles High School", "school_id": 485},
 ]
 
 REQUEST_DELAY = 2
 
-OUTPUT_DIR = Path("output")
+#04152026: updated to save file name differently - DO NOT add to main scraper
+OUTPUT_DIR = Path("testing")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-OUTPUT_FILE = OUTPUT_DIR / "events.csv"
+today_str = datetime.now().strftime("%m%d%Y_%H%M%S")
+OUTPUT_FILE = OUTPUT_DIR / f"output_{today_str}.csv"
 
 activity_record = {
     "school_id": None,
@@ -72,7 +44,6 @@ LEVEL_MAP = {
     "2": "Junior Varsity",
     "4": "Freshman",
 }
-
 
 def visit_school(page, school):
     school_id = school["school_id"]
@@ -102,7 +73,7 @@ def safe_attr(row, selector, attr_name):
         return value if value else None
     except Exception:
         return None
-    
+
 #04152026: separating times and scores 
 def split_time_and_score(raw_value):
     if not raw_value:
@@ -195,6 +166,7 @@ def collect_events_from_activity(page, activity):
     #04152026: added to correctly find level of play
     current_level_of_play = get_current_level_of_play(page)
 
+
     rows = page.locator("table.schedule tbody tr").all()
     print(f"Found {len(rows)} rows")
 
@@ -232,15 +204,16 @@ def collect_events_from_activity(page, activity):
             "school_name": activity["school_name"],
             "activity_name": activity["activity_name"],
             "alg": activity["alg"],
+            #04152026: updated to add level_of_play
             "level_of_play": current_level_of_play or LEVEL_MAP.get(str(activity["level"]), f"Unknown ({activity['level']})"),
             "event_date": date,
             "event_time": event_time,
             #04152026: updated to add score to data, change event_name column header
             "score": score,
-            "event_name": event_name,
+            "event_name_or_opponent": event_name,
             "location": location,
             "source_activity_url": activity["activity_url"],
-            "matchup_link": matchup_link,
+            "matchup_link": matchup_link,            
         }
 
         events.append(event)
