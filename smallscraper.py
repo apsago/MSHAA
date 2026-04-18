@@ -38,11 +38,16 @@ activity_record = {
 event_records = []
 activity_records = []
 
+#04182026: updated to add JH, 8th and 7th
 #04152026: added to create levels_of_play column
 LEVEL_MAP = {
     "1": "Varsity",
     "2": "Junior Varsity",
+    "3": "Sophomore",
     "4": "Freshman",
+    "7": "Junior High",
+    "5": "8th Grade",
+    "6": "7th Grade"
 }
 
 def visit_school(page, school):
@@ -96,14 +101,15 @@ def split_time_and_score(raw_value):
 
     return None, None
 
+#04182026: no longer in use
 #04152026: added to get correct level of play
-def get_current_level_of_play(page):
-    try:
-        current_tab = page.locator("#LevelsOfPlay li.level.current").first
-        text = " ".join(current_tab.inner_text().split()).strip()
-        return text if text else None
-    except Exception:
-        return None
+#def get_current_level_of_play(page):
+#    try:
+#        current_tab = page.locator("#LevelsOfPlay li.level.current").first
+#        text = " ".join(current_tab.inner_text().split()).strip()
+#        return text if text else None
+#    except Exception:
+#        return None
 
 def collect_activity_links(page, school):
     school_id = school["school_id"]
@@ -164,7 +170,8 @@ def collect_events_from_activity(page, activity):
     page.goto(activity["activity_url"], wait_until="domcontentloaded", timeout=15000)
 
     #04152026: added to correctly find level of play
-    current_level_of_play = get_current_level_of_play(page)
+    #04182026: hashed out, doing this wrong
+    #current_level_of_play = get_current_level_of_play(page)
 
 
     rows = page.locator("table.schedule tbody tr").all()
@@ -173,6 +180,9 @@ def collect_events_from_activity(page, activity):
     events = []
 
     for i, row in enumerate(rows, start=1):
+        #04182026 fixing level of play column
+        row_level = row.get_attribute("data-level")
+        level_of_play = LEVEL_MAP.get(str(row_level), f"Unknown ({row_level})")
         date = safe_rendered_text(row, "td.gamedate")
         event_name = safe_rendered_text(row, "td[id$='tdOpponent'] a")
         #04152026: updated event_name to capture tournament names
@@ -205,7 +215,8 @@ def collect_events_from_activity(page, activity):
             "activity_name": activity["activity_name"],
             "alg": activity["alg"],
             #04152026: updated to add level_of_play
-            "level_of_play": current_level_of_play or LEVEL_MAP.get(str(activity["level"]), f"Unknown ({activity['level']})"),
+            #04182026: updated variable name
+            "level_of_play": level_of_play or LEVEL_MAP.get(str(activity["level"]), f"Unknown ({activity['level']})"),
             "event_date": date,
             "event_time": event_time,
             #04152026: updated to add score to data, change event_name column header
