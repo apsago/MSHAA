@@ -281,7 +281,9 @@ def main():
             with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(
                     f,
-                    fieldnames=event_records[0].keys()
+                    fieldnames=event_records[0].keys(),
+                    #04202026: added quoting to help zapier parsing
+                    quoting=csv.QUOTE_ALL
                 )
                 writer.writeheader()
                 writer.writerows(event_records)
