@@ -283,6 +283,7 @@ def main():
                     f,
                     fieldnames=event_records[0].keys(),
                     #04202026: added quoting to help zapier parsing
+                    #tryingtogetthistowork
                     quoting=csv.QUOTE_ALL
                 )
                 writer.writeheader()
