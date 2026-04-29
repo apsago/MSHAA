@@ -31,9 +31,9 @@ jobs:
           python scraper.py
 
       - name: Commit and push updated CSV
-          run: |
-            git config --global user.name "github-actions"
-            git config --global user.email "github-actions@github.com"
-            git add output/events.csv
-            git commit -m "Update events.csv" || echo "No changes to commit"
-            git push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add output/events.csv
+          git commit -m "Update events.csv" || echo "No changes to commit"
+          git pushs
