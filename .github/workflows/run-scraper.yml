@@ -36,4 +36,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add output/events.csv
           git commit -m "Update events.csv" || echo "No changes to commit"
-          git pushs
+          git push
