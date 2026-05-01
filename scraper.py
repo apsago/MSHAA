@@ -4,7 +4,7 @@ import time
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs
 import re
-from datetime import date
+from datetime import date, datetime
 import pandas as pd
 import os
 
@@ -288,8 +288,9 @@ def main():
 
                         events = collect_events_from_activity(page, activity)
 
-                        for event in events:
-                            print(f"Collected {len(events)} events for {activity['activity_name']}")
+                        #04302026: skip the printing
+                        #for event in events:
+                            #print(f"Collected {len(events)} events for {activity['activity_name']}")
 
                         event_records.extend(events)
 
@@ -299,11 +300,58 @@ def main():
                             f"Error on activity {activity['activity_name']} "
                             f"for {activity['school_name']} ({activity['school_id']}): {e}"
                         )
-
                 time.sleep(REQUEST_DELAY)
 
             except Exception as e:
                 print(f"Error on school {school['school_name']} ({school['school_id']}): {e}")
+
+        #4302026 trying to add filters to shorten this thing
+        df = pd.DataFrame(event_records)
+
+        #Remove unwanted activities
+        df["alg_clean"] = df["alg"].astype(str).str.strip()
+
+        df = df[~df["alg_clean"].isin(["1", "2", "29"])]
+
+        df = df.drop(columns=["alg_clean"])
+
+        #Convert event_date to usable format
+        def parse_date(date_str):
+            if pd.isna(date_str):
+                return pd.NaT
+
+            # handle cases like "3/20-27" → take first date
+            if '-' in date_str:
+                date_str = date_str.split('-')[0]
+
+            # remove weird arrow formatting
+            date_str = date_str.replace('⤷', '').strip()
+
+            try:
+                return datetime.strptime(date_str, "%m/%d").replace(year=datetime.now().year)
+            except:
+                return pd.NaT
+
+        df['parsed_date'] = df['event_date'].apply(parse_date)
+
+        today = datetime.now()
+
+        # current month start
+        start = today.replace(day=1)
+
+        # end of next month
+        start = today.replace(day=1)
+        end = start + pd.DateOffset(months=2)
+
+        # keep only events in range
+        df = df[(df['parsed_date'] >= start) & (df['parsed_date'] < end)]
+
+        # drop helper column
+        df = df.drop(columns=['parsed_date'])
+
+        # convert back to dict for rest of your pipeline
+        df = df.sort_values(by=['parsed_date', 'school_name'])
+        event_records = df.to_dict(orient='records')
         
         print(f"\nWriting {len(event_records)} events to CSV...")
 
