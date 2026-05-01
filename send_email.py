@@ -14,6 +14,7 @@ EMAIL_TO = os.environ["EMAIL_TO"]
 # Convert CSV to Excel
 df = pd.read_csv(CSV_PATH)
 df.to_excel(XLSX_PATH, index=False)
+df.to_excel("output/latest.xlsx", index=False)
 
 # Build email
 msg = EmailMessage()
