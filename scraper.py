@@ -4,6 +4,9 @@ import time
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs
 import re
+from datetime import date
+import pandas as pd
+import os
 
 BASE_URL = "https://www.mshsaa.org"
 SCHOOL_PAGE = "https://www.mshsaa.org/MySchool/Schedule.aspx?s={school_id}"
@@ -317,6 +320,14 @@ def main():
                 writer.writerows(event_records)
 
             print(f"CSV saved to {OUTPUT_FILE}")
+            xlsx_dated = f"output/KOMU-SportsData-{date.today()}.xlsx"
+            xlsx_latest = "output/latest.xlsx"
+
+            df = pd.DataFrame(event_records)
+            df.to_excel(xlsx_dated, index=False)
+            df.to_excel(xlsx_latest, index=False)
+
+            print(f"Excel saved to {xlsx_dated} and {xlsx_latest}")
         else:
             print("No events found; CSV not written.")
 
