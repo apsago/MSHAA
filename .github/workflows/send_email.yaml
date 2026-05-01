@@ -1,0 +1,29 @@
+name: Email weekly sports data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * 0"
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pandas openpyxl
+
+      - name: Email Excel file
+        env:
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python send_email.py
