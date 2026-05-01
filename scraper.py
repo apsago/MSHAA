@@ -311,10 +311,13 @@ def main():
         #4302026 trying to add filters to shorten this thing
         df = pd.DataFrame(event_records)
 
-        #Remove unwanted activities
         df["alg_clean"] = df["alg"].astype(str).str.strip()
 
+        # Filter out Music, Scholar Bowl, etc.
         df = df[~df["alg_clean"].isin(["1", "2", "29"])]
+
+        # KOMU generally covers varsity sports only
+        df = df[df["level_of_play"] == "Varsity"]
 
         df = df.drop(columns=["alg_clean"])
 
