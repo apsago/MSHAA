@@ -66,8 +66,8 @@ activity_record = {
     "season": None,
     "level": None
 }
-event_records = []
-activity_records = []
+#event_records = []
+#activity_records = []
 
 #04182026: updated to add JH, 8th and 7th
 #04152026: added to create levels_of_play column
@@ -262,6 +262,9 @@ def collect_events_from_activity(page, activity):
     return events
 
 def main():
+    event_records = []
+    activity_records = []
+
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
 
@@ -336,9 +339,6 @@ def main():
 
         today = datetime.now()
 
-        # current month start
-        start = today.replace(day=1)
-
         # end of next month
         start = today.replace(day=1)
         end = start + pd.DateOffset(months=2)
@@ -346,11 +346,12 @@ def main():
         # keep only events in range
         df = df[(df['parsed_date'] >= start) & (df['parsed_date'] < end)]
 
+        df = df.sort_values(by=['parsed_date', 'school_name'])
+
         # drop helper column
         df = df.drop(columns=['parsed_date'])
 
         # convert back to dict for rest of your pipeline
-        df = df.sort_values(by=['parsed_date', 'school_name'])
         event_records = df.to_dict(orient='records')
         
         print(f"\nWriting {len(event_records)} events to CSV...")
