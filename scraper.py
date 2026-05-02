@@ -380,6 +380,16 @@ def main():
             df.to_excel(xlsx_latest, index=False)
 
             print(f"Excel saved to {xlsx_dated} and {xlsx_latest}")
+
+            df.to_json(
+                "output/events.json",
+                orient="records",
+                indent=2,
+                date_format="iso"
+            )
+
+            print("JSON saved")
+
         else:
             print("No events found; CSV not written.")
 
