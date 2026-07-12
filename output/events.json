@@ -3878,6 +3878,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=24&tournament=585765"
   },
   {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
+    "level_of_play":"Varsity",
+    "event_date":"8\/31",
+    "event_time":"4:30 pm",
+    "score":null,
+    "event_name":"Smith-Cotton",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=49&comp=2770155"
+  },
+  {
     "school_id":53,
     "school_name":"Centralia High School",
     "activity_name":"Softball Fall Season",
@@ -4296,6 +4310,34 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=194&alg=38&comp=2657341"
+  },
+  {
+    "school_id":194,
+    "school_name":"Smith-Cotton High School",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
+    "level_of_play":"Varsity",
+    "event_date":"8\/31",
+    "event_time":"4:30 pm",
+    "score":null,
+    "event_name":"Capital City",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=194&alg=49&comp=2770443"
+  },
+  {
+    "school_id":194,
+    "school_name":"Smith-Cotton High School",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
+    "level_of_play":"Varsity",
+    "event_date":"8\/31",
+    "event_time":"1:00 pm",
+    "score":null,
+    "event_name":"Jefferson City",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=194&alg=49&comp=2770444"
   },
   {
     "school_id":197,
