@@ -366,6 +366,20 @@
   {
     "school_id":128,
     "school_name":"Mexico High School",
+    "activity_name":"Football",
+    "alg":"19",
+    "level_of_play":"Varsity",
+    "event_date":"8\/21",
+    "event_time":null,
+    "score":null,
+    "event_name":"Monroe City Football Jamboree",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=128&alg=19",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=128&alg=19&tournament=592257"
+  },
+  {
+    "school_id":128,
+    "school_name":"Mexico High School",
     "activity_name":"Soccer Boys",
     "alg":"33",
     "level_of_play":"Varsity",
@@ -434,6 +448,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=430&alg=19&tournament=551601"
   },
   {
+    "school_id":431,
+    "school_name":"Salisbury High School",
+    "activity_name":"Football",
+    "alg":"19",
+    "level_of_play":"Varsity",
+    "event_date":"8\/21",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fayette Pre-Season Jamboree",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=431&alg=19",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=431&alg=19&tournament=592218"
+  },
+  {
     "school_id":194,
     "school_name":"Smith-Cotton High School",
     "activity_name":"Football",
@@ -454,7 +482,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"8\/21",
-    "event_time":null,
+    "event_time":"9:00 am",
     "score":null,
     "event_name":"Jamboree",
     "location":"tournament",
@@ -1196,12 +1224,12 @@
     "alg":"38",
     "level_of_play":"Varsity",
     "event_date":"8\/25",
-    "event_time":"5:00 pm",
+    "event_time":null,
     "score":null,
     "event_name":"Jamboree",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=194&alg=38&tournament=553079"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=194&alg=38&tournament=592098"
   },
   {
     "school_id":194,
@@ -2126,6 +2154,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=1540&alg=38&tournament=543815"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Swimming and Diving Boys",
+    "alg":"44",
+    "level_of_play":"Varsity",
+    "event_date":"8\/28",
+    "event_time":"5:00 pm",
+    "score":null,
+    "event_name":"West Plains",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=44",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=44&comp=2772965"
   },
   {
     "school_id":1540,
