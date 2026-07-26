@@ -62,7 +62,7 @@
     "alg":"19",
     "level_of_play":"Varsity",
     "event_date":"8\/21",
-    "event_time":"7:00 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Blair Oaks Football Jamboree",
     "location":"tournament",
@@ -330,7 +330,7 @@
     "event_date":"8\/21",
     "event_time":null,
     "score":null,
-    "event_name":"Jamboree at Hickman",
+    "event_name":"Jamboree at Smith Cotton",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=84&alg=33&tournament=553906"
@@ -2134,12 +2134,40 @@
     "alg":"24",
     "level_of_play":"Varsity",
     "event_date":"8\/28",
-    "event_time":null,
+    "event_time":"4:00 pm",
     "score":null,
     "event_name":"Hickman, Tolton, Capital City",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=1540&alg=24&tournament=563799"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Hickman",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=24&comp=2774051"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Father Tolton",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=24&comp=2774052"
   },
   {
     "school_id":1540,
@@ -3556,6 +3584,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=85&alg=33&comp=2675468"
   },
   {
+    "school_id":85,
+    "school_name":"Hickman High School",
+    "activity_name":"Swimming and Diving Boys",
+    "alg":"44",
+    "level_of_play":"Varsity",
+    "event_date":"8\/29",
+    "event_time":"10:00 am",
+    "score":null,
+    "event_name":"Como Tri-Dual",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=44",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=85&alg=44&tournament=592801"
+  },
+  {
     "school_id":84,
     "school_name":"Jefferson City High School",
     "activity_name":"Cross Country Boys",
@@ -3596,6 +3638,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=360&alg=38&tournament=550531"
+  },
+  {
+    "school_id":360,
+    "school_name":"Marshall High School",
+    "activity_name":"Swimming and Diving Boys",
+    "alg":"44",
+    "level_of_play":"Varsity",
+    "event_date":"8\/29",
+    "event_time":null,
+    "score":null,
+    "event_name":"Independence Invite",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=44",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=360&alg=44&tournament=592973"
   },
   {
     "school_id":132,
@@ -3948,6 +4004,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=53&alg=38&comp=2655425"
   },
   {
+    "school_id":53,
+    "school_name":"Centralia High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"8\/31",
+    "event_time":"6:00 pm",
+    "score":null,
+    "event_name":"Tipton",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=53&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=53&alg=57&comp=2774133"
+  },
+  {
     "school_id":566,
     "school_name":"Columbia Independent",
     "activity_name":"Golf Girls",
@@ -4142,6 +4212,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=317&alg=38&comp=2695915"
+  },
+  {
+    "school_id":84,
+    "school_name":"Jefferson City High School",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
+    "level_of_play":"Varsity",
+    "event_date":"8\/31",
+    "event_time":"1:00 pm",
+    "score":null,
+    "event_name":"Smith-Cotton",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=84&alg=49&comp=2773760"
   },
   {
     "school_id":84,
@@ -4436,6 +4520,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=57&comp=2695740"
+  },
+  {
+    "school_id":474,
+    "school_name":"Tipton High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"8\/31",
+    "event_time":"6:00 pm",
+    "score":null,
+    "event_name":"Centralia",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=474&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=474&alg=57&comp=2774478"
   },
   {
     "school_id":485,
