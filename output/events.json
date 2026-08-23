@@ -36,7 +36,7 @@
     "event_date":"8\/20",
     "event_time":null,
     "score":null,
-    "event_name":"Jamboree",
+    "event_name":"Helias \/ Southern Boone \/ MMA \/ Moberly Jamboree",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=132&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=132&alg=33&tournament=583462"
@@ -96,6 +96,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=217&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=217&alg=38&tournament=545733"
+  },
+  {
+    "school_id":16,
+    "school_name":"Boonville High School",
+    "activity_name":"Football",
+    "alg":"19",
+    "level_of_play":"Varsity",
+    "event_date":"8\/21",
+    "event_time":null,
+    "score":null,
+    "event_name":"Moberly Football Jamboree",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=19",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=16&alg=19&tournament=596997"
   },
   {
     "school_id":582,
@@ -252,6 +266,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=80&alg=33&tournament=549737"
   },
   {
+    "school_id":311,
+    "school_name":"Hallsville High School",
+    "activity_name":"Football",
+    "alg":"19",
+    "level_of_play":"Varsity",
+    "event_date":"8\/21",
+    "event_time":null,
+    "score":null,
+    "event_name":"Moberly Football Jamboree",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=311&alg=19",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=311&alg=19&tournament=596583"
+  },
+  {
     "school_id":313,
     "school_name":"Harrisburg High School",
     "activity_name":"Football",
@@ -390,6 +418,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=128&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=128&alg=33&tournament=584283"
+  },
+  {
+    "school_id":132,
+    "school_name":"Moberly High School",
+    "activity_name":"Football",
+    "alg":"19",
+    "level_of_play":"Varsity",
+    "event_date":"8\/21",
+    "event_time":"6:00 pm",
+    "score":null,
+    "event_name":"Moberly Football Jamboree",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=132&alg=19",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=132&alg=19&tournament=596564"
   },
   {
     "school_id":139,
@@ -798,20 +840,6 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=38&tournament=550491"
   },
   {
-    "school_id":26,
-    "school_name":"Camdenton High School",
-    "activity_name":"Volleyball Girls",
-    "alg":"57",
-    "level_of_play":"Varsity",
-    "event_date":"8\/25",
-    "event_time":null,
-    "score":null,
-    "event_name":"Jamboree - Camdenton, El Dorado Springs, Smith-Cotton",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=57",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=57&tournament=578977"
-  },
-  {
     "school_id":53,
     "school_name":"Centralia High School",
     "activity_name":"Softball Fall Season",
@@ -866,20 +894,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1099&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=1099&alg=57&tournament=582178"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"8\/25",
-    "event_time":null,
-    "score":null,
-    "event_name":"Jamboree",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=566&alg=38&tournament=587100"
   },
   {
     "school_id":566,
@@ -1444,6 +1458,20 @@
   {
     "school_id":16,
     "school_name":"Boonville High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"8\/27",
+    "event_time":"7:00 pm",
+    "score":null,
+    "event_name":"Jefferson City",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=33&comp=2781634"
+  },
+  {
+    "school_id":16,
+    "school_name":"Boonville High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -1664,6 +1692,20 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=85&alg=57&comp=2710741"
+  },
+  {
+    "school_id":84,
+    "school_name":"Jefferson City High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"8\/27",
+    "event_time":"7:00 pm",
+    "score":null,
+    "event_name":"Boonville",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=84&alg=33&comp=2781094"
   },
   {
     "school_id":84,
@@ -2150,7 +2192,7 @@
     "event_date":"8\/28-29",
     "event_time":null,
     "score":null,
-    "event_name":"Lake vs I-44 Varsity Round Robin: Camdenton | Lebanon | Osage | Waynesville",
+    "event_name":"Lake I-44 Varsity Round Robin: Camdenton | Lebanon | Osage | Waynesville",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=38&tournament=552477"
@@ -2242,6 +2284,48 @@
   {
     "school_id":1540,
     "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"10:00 am",
+    "score":null,
+    "event_name":"Washington",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2783011"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"3:15 pm",
+    "score":null,
+    "event_name":"Neosho",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2783012"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"11:45 am",
+    "score":null,
+    "event_name":"Windsor (Imperial)",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2783015"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -2326,20 +2410,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"8\/28-29",
-    "event_time":null,
-    "score":null,
-    "event_name":"Lead-Off Classic",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=566&alg=38&tournament=568155"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -2400,7 +2470,7 @@
     "alg":"24",
     "level_of_play":"Varsity",
     "event_date":"8\/28",
-    "event_time":null,
+    "event_time":"4:00 pm",
     "score":null,
     "event_name":"Hickman \/ Tolton \/ Capital City",
     "location":"tournament",
@@ -2476,6 +2546,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=80&alg=19&comp=2517442"
+  },
+  {
+    "school_id":302,
+    "school_name":"Glasgow High School",
+    "activity_name":"Baseball Fall Season",
+    "alg":"66",
+    "level_of_play":"Varsity",
+    "event_date":"8\/28",
+    "event_time":"5:00 pm",
+    "score":null,
+    "event_name":"Central MO HS HSA",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=302&alg=66",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=302&alg=66&comp=2783067"
   },
   {
     "school_id":302,
@@ -2940,6 +3024,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=152&alg=38&tournament=553024"
   },
   {
+    "school_id":152,
+    "school_name":"Osage High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"4:30 pm",
+    "score":null,
+    "event_name":"Lebanon",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=152&alg=38&comp=2782842"
+  },
+  {
     "school_id":578,
     "school_name":"Rock Bridge High School",
     "activity_name":"Football",
@@ -2960,7 +3058,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"8\/28",
-    "event_time":"6:30 pm",
+    "event_time":"5:30 pm",
     "score":null,
     "event_name":"Kickapoo",
     "location":"home",
@@ -3008,6 +3106,34 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=57&tournament=579200"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Farmington",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2785236"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/28",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"MICDS",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2785237"
   },
   {
     "school_id":430,
@@ -3278,20 +3404,6 @@
   {
     "school_id":582,
     "school_name":"California High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"8\/29",
-    "event_time":null,
-    "score":null,
-    "event_name":"Jim Marshall Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=12&tournament=544412"
-  },
-  {
-    "school_id":582,
-    "school_name":"California High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -3344,6 +3456,34 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=33&comp=2662529"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/29",
+    "event_time":"10:00 am",
+    "score":null,
+    "event_name":"Mexico",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2783013"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/29",
+    "event_time":"11:45 am",
+    "score":null,
+    "event_name":"Logan-Rogersville",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2783014"
   },
   {
     "school_id":1540,
@@ -3864,13 +4004,69 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=139&alg=38&tournament=541704"
   },
   {
+    "school_id":152,
+    "school_name":"Osage High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/29",
+    "event_time":"1:00 pm",
+    "score":null,
+    "event_name":"Waynesville",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=152&alg=38&comp=2782843"
+  },
+  {
+    "school_id":152,
+    "school_name":"Osage High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/29",
+    "event_time":"3:00 pm",
+    "score":null,
+    "event_name":"Camdenton",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=152&alg=38&comp=2782844"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"8\/29",
+    "event_time":null,
+    "score":null,
+    "event_name":"Clayton Classic Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=11&tournament=596592"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"8\/29",
+    "event_time":null,
+    "score":null,
+    "event_name":"Clayton Classic Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=12&tournament=596599"
+  },
+  {
     "school_id":578,
     "school_name":"Rock Bridge High School",
     "activity_name":"Soccer Boys",
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"8\/29",
-    "event_time":"11:45 am",
+    "event_time":"10:00 am",
     "score":null,
     "event_name":"Nixa",
     "location":"home",
@@ -3890,6 +4086,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=49",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=49&comp=2722090"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 8\/29",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"\u2937 Columbia Columbia, IL",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":null
   },
   {
     "school_id":430,
@@ -4244,20 +4454,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"8\/31",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Fayette",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2776580"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -4320,7 +4516,7 @@
     "event_date":"8\/31",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=294&alg=38&comp=2767863"
@@ -4656,10 +4852,10 @@
     "event_date":"8\/31",
     "event_time":null,
     "score":null,
-    "event_name":"New Bloomfield Girls Golf Invitational",
+    "event_name":"Salisbury Match - Salisbury, Glasgow, Paris, Fayette, Monroe City",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=431&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=431&alg=24&tournament=594747"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=431&alg=24&tournament=545808"
   },
   {
     "school_id":194,
@@ -4702,6 +4898,20 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=49",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=194&alg=49&comp=2770444"
+  },
+  {
+    "school_id":197,
+    "school_name":"South Callaway High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"8\/31",
+    "event_time":null,
+    "score":null,
+    "event_name":"New Bloomfield Girls Golf Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=197&alg=24&tournament=595937"
   },
   {
     "school_id":197,
@@ -5216,7 +5426,7 @@
     "event_date":"9\/1",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2661950"
@@ -5284,7 +5494,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/1",
-    "event_time":"5:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Battle with Columbia Independent",
     "location":"home",
@@ -5350,20 +5560,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/1",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Capital City",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762409"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Volleyball Girls",
     "alg":"57",
     "level_of_play":"Varsity",
@@ -5420,20 +5616,6 @@
   {
     "school_id":917,
     "school_name":"Father Tolton",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/1",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"New Bloomfield",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=38&comp=2755760"
-  },
-  {
-    "school_id":917,
-    "school_name":"Father Tolton",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -5472,20 +5654,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=11",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=11&tournament=590170"
-  },
-  {
-    "school_id":294,
-    "school_name":"Fayette High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/1",
-    "event_time":null,
-    "score":null,
-    "event_name":"Salisbury 3500",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=12&tournament=590171"
   },
   {
     "school_id":80,
@@ -5648,7 +5816,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/1",
-    "event_time":"5:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Battle with Columbia Independent",
     "location":"home",
@@ -5832,24 +6000,10 @@
     "event_date":"9\/1",
     "event_time":"6:30 pm",
     "score":null,
-    "event_name":"Linn County",
+    "event_name":"Linn County with Meadville",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=66",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=317&alg=66&comp=2626880"
-  },
-  {
-    "school_id":317,
-    "school_name":"Higbee High School",
-    "activity_name":"Cross Country Boys",
-    "alg":"11",
-    "level_of_play":"Varsity",
-    "event_date":"9\/1",
-    "event_time":null,
-    "score":null,
-    "event_name":"Salisbury 3500",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=11",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=317&alg=11&tournament=585691"
   },
   {
     "school_id":317,
@@ -6386,6 +6540,20 @@
   {
     "school_id":197,
     "school_name":"South Callaway High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/1",
+    "event_time":"4:00 pm",
+    "score":null,
+    "event_name":"Blair Oaks",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=197&alg=24&comp=2779317"
+  },
+  {
+    "school_id":197,
+    "school_name":"South Callaway High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -6498,6 +6666,34 @@
   {
     "school_id":953,
     "school_name":"Battle High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/2",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fleet Feet Classic",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=11&tournament=597909"
+  },
+  {
+    "school_id":953,
+    "school_name":"Battle High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/2",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fleet Feet Classic",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=12&tournament=597914"
+  },
+  {
+    "school_id":953,
+    "school_name":"Battle High School",
     "activity_name":"Golf Girls",
     "alg":"24",
     "level_of_play":"Varsity",
@@ -6536,20 +6732,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=11",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=11&tournament=583329"
-  },
-  {
-    "school_id":582,
-    "school_name":"California High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/2",
-    "event_time":null,
-    "score":null,
-    "event_name":"Versailles Warm-UP",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=12&tournament=583330"
   },
   {
     "school_id":26,
@@ -6838,7 +7020,7 @@
     "alg":"38",
     "level_of_play":"Varsity",
     "event_date":"9\/2",
-    "event_time":"4:30 pm",
+    "event_time":"5:00 pm",
     "score":null,
     "event_name":"Warrensburg",
     "location":"home",
@@ -7028,18 +7210,18 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=430&alg=11&tournament=584783"
   },
   {
-    "school_id":431,
-    "school_name":"Salisbury High School",
-    "activity_name":"Golf Girls",
-    "alg":"24",
+    "school_id":430,
+    "school_name":"Russellville High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
     "level_of_play":"Varsity",
     "event_date":"9\/2",
     "event_time":null,
     "score":null,
-    "event_name":"Salisbury Match - Salisbury, Glasgow, Paris, Fayette, Monroe City",
+    "event_name":"Versailles Warm-UP",
     "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=431&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=431&alg=24&tournament=545808"
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=430&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=430&alg=12&tournament=596280"
   },
   {
     "school_id":431,
@@ -7128,6 +7310,20 @@
   {
     "school_id":474,
     "school_name":"Tipton High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/2",
+    "event_time":null,
+    "score":null,
+    "event_name":"Versailles Warm-UP",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=474&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=474&alg=12&tournament=596302"
+  },
+  {
+    "school_id":474,
+    "school_name":"Tipton High School",
     "activity_name":"Volleyball Girls",
     "alg":"57",
     "level_of_play":"Varsity",
@@ -7174,12 +7370,12 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/3",
-    "event_time":"6:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Sunnydale Adventist Acad HS",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=33",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=953&alg=33&comp=2774391"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=953&alg=33&comp=2784981"
   },
   {
     "school_id":953,
@@ -7314,26 +7510,12 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/3",
-    "event_time":"7:00 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"California",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=57&comp=2642369"
-  },
-  {
-    "school_id":582,
-    "school_name":"California High School",
-    "activity_name":"Golf Girls",
-    "alg":"24",
-    "level_of_play":"Varsity",
-    "event_date":"9\/3",
-    "event_time":"4:00 pm",
-    "score":null,
-    "event_name":"Helias Catholic",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=582&alg=24&comp=2639043"
   },
   {
     "school_id":582,
@@ -7470,7 +7652,7 @@
     "event_date":"9\/3",
     "event_time":"6:30 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=53&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=53&alg=38&comp=2655427"
@@ -7538,26 +7720,12 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/3",
-    "event_time":"6:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Sunnydale Adventist Acad HS",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=33",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=33&comp=2774391"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/3",
-    "event_time":"6:30 pm",
-    "score":null,
-    "event_name":"Centralia",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762380"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=33&comp=2784981"
   },
   {
     "school_id":566,
@@ -7572,6 +7740,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=57&comp=2674303"
+  },
+  {
+    "school_id":278,
+    "school_name":"Eldon High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/3",
+    "event_time":"4:00 pm",
+    "score":null,
+    "event_name":"California",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=278&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=278&alg=24&comp=2779968"
   },
   {
     "school_id":278,
@@ -7714,6 +7896,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=80&alg=57&comp=2642108"
   },
   {
+    "school_id":302,
+    "school_name":"Glasgow High School",
+    "activity_name":"Baseball Fall Season",
+    "alg":"66",
+    "level_of_play":"Varsity",
+    "event_date":"9\/3",
+    "event_time":"5:00 pm",
+    "score":null,
+    "event_name":"Community",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=302&alg=66",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=302&alg=66&comp=2783057"
+  },
+  {
     "school_id":311,
     "school_name":"Hallsville High School",
     "activity_name":"Soccer Boys",
@@ -7768,20 +7964,6 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=313&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=313&alg=38&comp=2666031"
-  },
-  {
-    "school_id":522,
-    "school_name":"Helias High School",
-    "activity_name":"Golf Girls",
-    "alg":"24",
-    "level_of_play":"Varsity",
-    "event_date":"9\/3",
-    "event_time":"4:00 pm",
-    "score":null,
-    "event_name":"California",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=522&alg=24&comp=2751957"
   },
   {
     "school_id":522,
@@ -8540,20 +8722,6 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1099&alg=33&comp=2657233"
   },
   {
-    "school_id":566,
-    "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/4-5",
-    "event_time":null,
-    "score":null,
-    "event_name":"Battle Round Robin",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=566&alg=38&tournament=587103"
-  },
-  {
     "school_id":278,
     "school_name":"Eldon High School",
     "activity_name":"Football",
@@ -8594,6 +8762,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=917&alg=38&tournament=582148"
+  },
+  {
+    "school_id":917,
+    "school_name":"Father Tolton",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/4",
+    "event_time":"6:30 pm",
+    "score":null,
+    "event_name":"Battle",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=38&comp=2786096"
   },
   {
     "school_id":917,
@@ -8770,7 +8952,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/4",
-    "event_time":"7:00 pm",
+    "event_time":"8:30 pm",
     "score":null,
     "event_name":"Kickapoo",
     "location":"home",
@@ -8784,7 +8966,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/4",
-    "event_time":"4:30 pm",
+    "event_time":"5:30 pm",
     "score":null,
     "event_name":"Nixa",
     "location":"home",
@@ -9046,6 +9228,34 @@
   {
     "school_id":578,
     "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/4",
+    "event_time":null,
+    "score":null,
+    "event_name":"Augustana Twilight",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=11&tournament=596593"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/4",
+    "event_time":null,
+    "score":null,
+    "event_name":"Augustana Twilight",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=12&tournament=596600"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
     "activity_name":"Football",
     "alg":"19",
     "level_of_play":"Varsity",
@@ -9204,7 +9414,7 @@
     "alg":"11",
     "level_of_play":"Varsity",
     "event_date":"9\/5",
-    "event_time":null,
+    "event_time":"8:00 am",
     "score":null,
     "event_name":"New Haven Invitational",
     "location":"tournament",
@@ -9218,7 +9428,7 @@
     "alg":"12",
     "level_of_play":"Varsity",
     "event_date":"9\/5",
-    "event_time":null,
+    "event_time":"8:00 am",
     "score":null,
     "event_name":"New Haven Invitational",
     "location":"tournament",
@@ -9352,6 +9562,34 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=917&alg=12&tournament=588191"
   },
   {
+    "school_id":917,
+    "school_name":"Father Tolton",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/5",
+    "event_time":"1:30 pm",
+    "score":null,
+    "event_name":"Grandview",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=38&comp=2786097"
+  },
+  {
+    "school_id":917,
+    "school_name":"Father Tolton",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/5",
+    "event_time":"3:00 pm",
+    "score":null,
+    "event_name":"Mexico",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=38&comp=2786098"
+  },
+  {
     "school_id":80,
     "school_name":"Fulton High School",
     "activity_name":"Cross Country Boys",
@@ -9378,20 +9616,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=12",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=80&alg=12&tournament=594831"
-  },
-  {
-    "school_id":80,
-    "school_name":"Fulton High School",
-    "activity_name":"Tennis Girls",
-    "alg":"49",
-    "level_of_play":"Varsity",
-    "event_date":"9\/5",
-    "event_time":null,
-    "score":null,
-    "event_name":"Lady Pirate Open",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=49",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=80&alg=49&tournament=579516"
   },
   {
     "school_id":85,
@@ -9848,7 +10072,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/8",
-    "event_time":"7:00 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Centralia",
     "location":"away",
@@ -10092,20 +10316,6 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=33&comp=2667382"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/8",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Rock Bridge",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762431"
   },
   {
     "school_id":566,
@@ -10444,6 +10654,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=522&alg=33&comp=2666696"
   },
   {
+    "school_id":522,
+    "school_name":"Helias High School",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
+    "level_of_play":"Varsity",
+    "event_date":"9\/8",
+    "event_time":"2:00 pm",
+    "score":null,
+    "event_name":"Helias Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=522&alg=49&tournament=544829"
+  },
+  {
     "school_id":85,
     "school_name":"Hickman High School",
     "activity_name":"Soccer Boys",
@@ -10526,20 +10750,6 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=33&comp=2661577"
-  },
-  {
-    "school_id":360,
-    "school_name":"Marshall High School",
-    "activity_name":"Swimming and Diving Boys",
-    "alg":"44",
-    "level_of_play":"Varsity",
-    "event_date":"9\/8",
-    "event_time":null,
-    "score":null,
-    "event_name":"Hannibal",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=44",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=360&alg=44&tournament=564056"
   },
   {
     "school_id":360,
@@ -10652,20 +10862,6 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=569&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=569&alg=33&comp=2576712"
-  },
-  {
-    "school_id":569,
-    "school_name":"Missouri Military Academy",
-    "activity_name":"Swimming and Diving Boys",
-    "alg":"44",
-    "level_of_play":"Varsity",
-    "event_date":"9\/8",
-    "event_time":null,
-    "score":null,
-    "event_name":"Hannibal TRI",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=569&alg=44",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=569&alg=44&tournament=563755"
   },
   {
     "school_id":132,
@@ -10816,7 +11012,7 @@
     "event_date":"9\/8",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=38&comp=2763954"
@@ -11146,20 +11342,6 @@
   {
     "school_id":582,
     "school_name":"California High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/9",
-    "event_time":null,
-    "score":null,
-    "event_name":"Vienna Eagle Cross Country Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=12&tournament=544413"
-  },
-  {
-    "school_id":582,
-    "school_name":"California High School",
     "activity_name":"Golf Girls",
     "alg":"24",
     "level_of_play":"Varsity",
@@ -11310,20 +11492,6 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1099&alg=44",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1099&alg=44&comp=2776178"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/9",
-    "event_time":"4:30 pm",
-    "score":null,
-    "event_name":"Rolla",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762381"
   },
   {
     "school_id":566,
@@ -12060,7 +12228,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/10",
-    "event_time":"5:00 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Boonville",
     "location":"home",
@@ -12130,7 +12298,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/10",
-    "event_time":"5:00 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Blair Oaks",
     "location":"away",
@@ -12432,20 +12600,6 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=11&tournament=579178"
   },
   {
-    "school_id":294,
-    "school_name":"Fayette High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/10",
-    "event_time":null,
-    "score":null,
-    "event_name":"Marshall Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=12&tournament=592258"
-  },
-  {
     "school_id":80,
     "school_name":"Fulton High School",
     "activity_name":"Soccer Boys",
@@ -12738,6 +12892,20 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=57&comp=2661610"
+  },
+  {
+    "school_id":128,
+    "school_name":"Mexico High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/10",
+    "event_time":null,
+    "score":null,
+    "event_name":"Southern Boone\/New Bloomfield\/Glasgow",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=128&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=128&alg=24&tournament=596140"
   },
   {
     "school_id":128,
@@ -13070,10 +13238,52 @@
     "event_date":"9\/10",
     "event_time":null,
     "score":null,
-    "event_name":"Southern Boone\/New Bloomfield\/Glasgow",
+    "event_name":"Southern Boone\/New Bloomfield\/Glasgow\/Mexico",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=2&alg=24&tournament=564532"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/10",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Mexico",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=24&comp=2780111"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/10",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"New Bloomfield",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=24&comp=2780112"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/10",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Glasgow",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=24&comp=2780113"
   },
   {
     "school_id":2,
@@ -13302,13 +13512,27 @@
   {
     "school_id":26,
     "school_name":"Camdenton High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/11",
+    "event_time":"10:30 am",
+    "score":null,
+    "event_name":"Parkview",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=33&comp=2781178"
+  },
+  {
+    "school_id":26,
+    "school_name":"Camdenton High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
     "event_date":"9\/11-12",
     "event_time":null,
     "score":null,
-    "event_name":"The Vivian Jo Memorial Take the Lake High School Tournament",
+    "event_name":"Vivian Jo Memorial Take the Lake High School Tournament",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=38&tournament=550492"
@@ -13340,6 +13564,34 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=1540&alg=38&tournament=557093"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/11",
+    "event_time":"3:15 pm",
+    "score":null,
+    "event_name":"Lee's Summit",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2785359"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/11",
+    "event_time":"5:00 pm",
+    "score":null,
+    "event_name":"Kirkwood",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2785360"
   },
   {
     "school_id":1540,
@@ -13384,20 +13636,6 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=53&alg=38&tournament=570018"
   },
   {
-    "school_id":566,
-    "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/11-12",
-    "event_time":null,
-    "score":null,
-    "event_name":"LOZ Tournament at Ball Parks National",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=566&alg=38&tournament=568157"
-  },
-  {
     "school_id":278,
     "school_name":"Eldon High School",
     "activity_name":"Football",
@@ -13424,20 +13662,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=278&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=278&alg=38&tournament=552344"
-  },
-  {
-    "school_id":917,
-    "school_name":"Father Tolton",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/11-12",
-    "event_time":null,
-    "score":null,
-    "event_name":"LOZ Tournament at Ball Parks National",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=917&alg=38&tournament=557017"
   },
   {
     "school_id":917,
@@ -13564,20 +13788,6 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=85&alg=19&comp=2646523"
-  },
-  {
-    "school_id":85,
-    "school_name":"Hickman High School",
-    "activity_name":"Soccer Boys",
-    "alg":"33",
-    "level_of_play":"Varsity",
-    "event_date":"9\/11-12",
-    "event_time":null,
-    "score":null,
-    "event_name":"Pirate Shootout",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=33",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=85&alg=33&tournament=558040"
   },
   {
     "school_id":85,
@@ -13728,10 +13938,10 @@
     "event_date":"9\/11",
     "event_time":"7:00 pm",
     "score":null,
-    "event_name":"Rolla",
+    "event_name":"Lighthouse Sr. High",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=132&alg=19",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=132&alg=19&comp=2576633"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=132&alg=19&comp=2785844"
   },
   {
     "school_id":132,
@@ -13816,6 +14026,34 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=57&tournament=579204"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/11",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Lutheran St. Charles",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784570"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/11",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Republic",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784571"
   },
   {
     "school_id":430,
@@ -14126,6 +14364,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=217&alg=12&tournament=589651"
   },
   {
+    "school_id":217,
+    "school_name":"Blair Oaks High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"9\/12",
+    "event_time":null,
+    "score":null,
+    "event_name":"West Plains Showdown Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=217&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=217&alg=57&tournament=596276"
+  },
+  {
     "school_id":16,
     "school_name":"Boonville High School",
     "activity_name":"Cross Country Boys",
@@ -14184,20 +14436,6 @@
   {
     "school_id":582,
     "school_name":"California High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/12",
-    "event_time":null,
-    "score":null,
-    "event_name":"47th Annual Linn XC Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=12&tournament=544414"
-  },
-  {
-    "school_id":582,
-    "school_name":"California High School",
     "activity_name":"Volleyball Girls",
     "alg":"57",
     "level_of_play":"Varsity",
@@ -14208,6 +14446,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=57&tournament=542694"
+  },
+  {
+    "school_id":26,
+    "school_name":"Camdenton High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/12",
+    "event_time":"11:00 am",
+    "score":null,
+    "event_name":"Kickapoo",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=33&comp=2781179"
   },
   {
     "school_id":26,
@@ -14250,6 +14502,34 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=12",
     "matchup_link":null
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/12",
+    "event_time":"2:15 pm",
+    "score":null,
+    "event_name":"St. Elizabeth",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2785361"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/12",
+    "event_time":"4:00 pm",
+    "score":null,
+    "event_name":"Park Hill",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2785362"
   },
   {
     "school_id":53,
@@ -14460,6 +14740,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=917&alg=57&tournament=570559"
+  },
+  {
+    "school_id":294,
+    "school_name":"Fayette High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/12",
+    "event_time":null,
+    "score":null,
+    "event_name":"Tolton Catholic Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=11&tournament=598983"
   },
   {
     "school_id":294,
@@ -14726,20 +15020,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=66",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=317&alg=66&tournament=544589"
-  },
-  {
-    "school_id":317,
-    "school_name":"Higbee High School",
-    "activity_name":"Cross Country Boys",
-    "alg":"11",
-    "level_of_play":"Varsity",
-    "event_date":"9\/12",
-    "event_time":null,
-    "score":null,
-    "event_name":"Tolton Catholic Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=11",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=317&alg=11&tournament=590608"
   },
   {
     "school_id":317,
@@ -15024,6 +15304,34 @@
   {
     "school_id":578,
     "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/12",
+    "event_time":null,
+    "score":null,
+    "event_name":"Forest Park Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=11&tournament=596594"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/12",
+    "event_time":null,
+    "score":null,
+    "event_name":"Forest Park Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=12&tournament=596601"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
     "activity_name":"Soccer Boys",
     "alg":"33",
     "level_of_play":"Varsity",
@@ -15048,6 +15356,34 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=38&comp=2766986"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/12",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"St. Michael the Archangel",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784572"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/12",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Blue Springs",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784573"
   },
   {
     "school_id":430,
@@ -15154,12 +15490,12 @@
     "alg":"11",
     "level_of_play":"Varsity",
     "event_date":"9\/12",
-    "event_time":"9:00 am",
+    "event_time":null,
     "score":null,
-    "event_name":"Linn",
-    "location":"away",
+    "event_name":"47th Annual Linn XC Invitational",
+    "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=11",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=197&alg=11&comp=2726984"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=197&alg=11&tournament=595766"
   },
   {
     "school_id":197,
@@ -15173,7 +15509,7 @@
     "event_name":"Linn",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=197&alg=12&comp=2726984"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=197&alg=12&comp=2779195"
   },
   {
     "school_id":2,
@@ -15280,7 +15616,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/14",
-    "event_time":"6:30 pm",
+    "event_time":"5:00 pm",
     "score":null,
     "event_name":"Boonville",
     "location":"away",
@@ -15408,7 +15744,7 @@
     "event_date":"9\/14",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=38&comp=2768765"
@@ -15482,6 +15818,20 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2623141"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Swimming and Diving Boys",
+    "alg":"44",
+    "level_of_play":"Varsity",
+    "event_date":"9\/14",
+    "event_time":"3:30 pm",
+    "score":null,
+    "event_name":"Hannibal",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=44",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=44&comp=2782011"
   },
   {
     "school_id":1540,
@@ -15560,26 +15910,12 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/14",
-    "event_time":"6:30 pm",
+    "event_time":"5:00 pm",
     "score":null,
     "event_name":"Boonville",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=33&comp=2766209"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/14",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Camdenton",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762382"
   },
   {
     "school_id":566,
@@ -15622,6 +15958,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=33&comp=2677039"
+  },
+  {
+    "school_id":917,
+    "school_name":"Father Tolton",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"9\/14",
+    "event_time":"5:30 pm",
+    "score":null,
+    "event_name":"Hickman",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=38&comp=2782492"
   },
   {
     "school_id":917,
@@ -15801,7 +16151,7 @@
     "event_time":"5:30 pm",
     "score":null,
     "event_name":"Father Tolton",
-    "location":"away",
+    "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=85&alg=38&comp=2744124"
   },
@@ -15832,6 +16182,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=84&alg=24&tournament=576803"
+  },
+  {
+    "school_id":84,
+    "school_name":"Jefferson City High School",
+    "activity_name":"Swimming and Diving Boys",
+    "alg":"44",
+    "level_of_play":"Varsity",
+    "event_date":"9\/14",
+    "event_time":"5:00 pm",
+    "score":null,
+    "event_name":"Hannibal",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=44",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=84&alg=44&comp=2781700"
   },
   {
     "school_id":84,
@@ -16050,7 +16414,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/14",
-    "event_time":"6:45 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Sacred Heart",
     "location":"home",
@@ -16428,12 +16792,26 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/15",
-    "event_time":"7:30 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Osage",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=57&comp=2710325"
+  },
+  {
+    "school_id":582,
+    "school_name":"California High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/15",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Helias Catholic",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=582&alg=24&comp=2781334"
   },
   {
     "school_id":582,
@@ -16704,20 +17082,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/15",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Hickman",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762410"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Swimming and Diving Boys",
     "alg":"44",
     "level_of_play":"Varsity",
@@ -16984,6 +17348,20 @@
   {
     "school_id":522,
     "school_name":"Helias High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/15",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"California",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=522&alg=24&comp=2780320"
+  },
+  {
+    "school_id":522,
+    "school_name":"Helias High School",
     "activity_name":"Soccer Boys",
     "alg":"33",
     "level_of_play":"Varsity",
@@ -17046,7 +17424,7 @@
     "event_date":"9\/15",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=85&alg=38&comp=2744125"
@@ -17324,7 +17702,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/15",
-    "event_time":"7:30 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Boonville",
     "location":"home",
@@ -17516,6 +17894,20 @@
   {
     "school_id":197,
     "school_name":"South Callaway High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/15",
+    "event_time":null,
+    "score":null,
+    "event_name":"Tipton Tri",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=197&alg=24&tournament=595863"
+  },
+  {
+    "school_id":197,
+    "school_name":"South Callaway High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -17626,13 +18018,27 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=217&alg=24&tournament=575955"
   },
   {
+    "school_id":16,
+    "school_name":"Boonville High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"9\/16",
+    "event_time":"6:30 pm",
+    "score":null,
+    "event_name":"Tipton",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=57&comp=2781547"
+  },
+  {
     "school_id":1540,
     "school_name":"Capital City High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
     "event_date":"9\/16",
-    "event_time":"5:30 pm",
+    "event_time":"5:00 pm",
     "score":null,
     "event_name":"Hickman",
     "location":"away",
@@ -17908,20 +18314,6 @@
   {
     "school_id":84,
     "school_name":"Jefferson City High School",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/16",
-    "event_time":"TBD",
-    "score":null,
-    "event_name":"Rock Bridge",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=84&alg=38&comp=2753203"
-  },
-  {
-    "school_id":84,
-    "school_name":"Jefferson City High School",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -17957,7 +18349,7 @@
     "event_time":"5:00 pm",
     "score":null,
     "event_name":"Raytown",
-    "location":"home",
+    "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=44",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=44&comp=2773840"
   },
@@ -18058,6 +18450,48 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=2&alg=24&tournament=564533"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/16",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Blair Oaks",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=24&comp=2780114"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/16",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Hallsville",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=24&comp=2780115"
+  },
+  {
+    "school_id":474,
+    "school_name":"Tipton High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"9\/16",
+    "event_time":"6:30 pm",
+    "score":null,
+    "event_name":"Boonville",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=474&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=474&alg=57&comp=2782270"
   },
   {
     "school_id":953,
@@ -18430,7 +18864,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/17",
-    "event_time":"5:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Southern Boone",
     "location":"home",
@@ -18440,16 +18874,16 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
     "level_of_play":"Varsity",
     "event_date":"9\/17",
-    "event_time":"5:00 pm",
+    "event_time":"4:30 pm",
     "score":null,
-    "event_name":"New Bloomfield",
+    "event_name":"Father Tolton",
     "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762384"
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=49&comp=2781629"
   },
   {
     "school_id":278,
@@ -18492,6 +18926,20 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=33&comp=2665264"
+  },
+  {
+    "school_id":917,
+    "school_name":"Father Tolton",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/17",
+    "event_time":"5:00 pm",
+    "score":null,
+    "event_name":"Jefferson City",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=38&comp=2786094"
   },
   {
     "school_id":917,
@@ -18654,7 +19102,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/17",
-    "event_time":"5:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Southern Boone",
     "location":"home",
@@ -19160,7 +19608,7 @@
     "event_date":"9\/17",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Brunswick",
+    "event_name":"Brunswick with Keytesville, Northwestern (Mendon)",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=431&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=431&alg=38&comp=2632149"
@@ -19510,7 +19958,7 @@
     "event_date":"9\/18",
     "event_time":null,
     "score":null,
-    "event_name":"Varsity Lake Scramble: Branson | Camdenton | Webb City | Willard",
+    "event_name":"Varsity Scramble: Branson | Camdenton | Webb City | Willard",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=57&tournament=595499"
@@ -19560,6 +20008,34 @@
   {
     "school_id":1540,
     "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/18",
+    "event_time":"9:00 am",
+    "score":null,
+    "event_name":"Fatima",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2783016"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/18",
+    "event_time":"7:00 pm",
+    "score":null,
+    "event_name":"Chaffee",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1540&alg=38&comp=2783017"
+  },
+  {
+    "school_id":1540,
+    "school_name":"Capital City High School",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -19592,7 +20068,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/18",
-    "event_time":"5:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Moberly",
     "location":"home",
@@ -19670,6 +20146,34 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=917&alg=38&tournament=559426"
   },
   {
+    "school_id":917,
+    "school_name":"Father Tolton",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/18",
+    "event_time":"11:00 am",
+    "score":null,
+    "event_name":"Macon",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=917&alg=38&comp=2786095"
+  },
+  {
+    "school_id":917,
+    "school_name":"Father Tolton",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
+    "level_of_play":"Varsity",
+    "event_date":"9\/18-19",
+    "event_time":null,
+    "score":null,
+    "event_name":"Francis Howell North Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=917&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=917&alg=49&tournament=596563"
+  },
+  {
     "school_id":294,
     "school_name":"Fayette High School",
     "activity_name":"Football",
@@ -19718,7 +20222,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/18",
-    "event_time":"5:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Moberly",
     "location":"home",
@@ -19928,7 +20432,7 @@
     "alg":"33",
     "level_of_play":"Varsity",
     "event_date":"9\/18",
-    "event_time":"5:00 pm",
+    "event_time":"6:30 pm",
     "score":null,
     "event_name":"Christian Fellowship Sr. with Hallsville",
     "location":"away",
@@ -20154,7 +20658,7 @@
     "event_date":"9\/18",
     "event_time":"7:00 pm",
     "score":null,
-    "event_name":"Tipton",
+    "event_name":"Tipton with Bunceton",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=485&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=485&alg=19&comp=2517707"
@@ -20172,6 +20676,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=11",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=11&tournament=589037"
+  },
+  {
+    "school_id":953,
+    "school_name":"Battle High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/19",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fulton Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=12&tournament=597915"
   },
   {
     "school_id":953,
@@ -20428,20 +20946,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/19",
-    "event_time":null,
-    "score":null,
-    "event_name":"Fayette Softball Tournament",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=566&alg=38&tournament=587095"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -20494,20 +20998,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=11",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=11&tournament=557600"
-  },
-  {
-    "school_id":294,
-    "school_name":"Fayette High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/19",
-    "event_time":null,
-    "score":null,
-    "event_name":"New Franklin CC",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=12&tournament=592259"
   },
   {
     "school_id":294,
@@ -20760,20 +21250,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=85&alg=57&tournament=579354"
-  },
-  {
-    "school_id":317,
-    "school_name":"Higbee High School",
-    "activity_name":"Cross Country Boys",
-    "alg":"11",
-    "level_of_play":"Varsity",
-    "event_date":"9\/19",
-    "event_time":null,
-    "score":null,
-    "event_name":"New Franklin\/CAC Cross Country Meet",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=11",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=317&alg=11&tournament=582392"
   },
   {
     "school_id":317,
@@ -21098,6 +21574,34 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=57&tournament=579205"
   },
   {
+    "school_id":430,
+    "school_name":"Russellville High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/19",
+    "event_time":null,
+    "score":null,
+    "event_name":"South Callaway Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=430&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=430&alg=11&tournament=595940"
+  },
+  {
+    "school_id":430,
+    "school_name":"Russellville High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/19",
+    "event_time":null,
+    "score":null,
+    "event_name":"South Callaway Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=430&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=430&alg=12&tournament=595941"
+  },
+  {
     "school_id":194,
     "school_name":"Smith-Cotton High School",
     "activity_name":"Cross Country Boys",
@@ -21124,6 +21628,34 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=12",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=194&alg=12&tournament=558625"
+  },
+  {
+    "school_id":197,
+    "school_name":"South Callaway High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/19",
+    "event_time":"9:00 am",
+    "score":null,
+    "event_name":"South Callaway Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=197&alg=11&tournament=595773"
+  },
+  {
+    "school_id":197,
+    "school_name":"South Callaway High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/19",
+    "event_time":"9:00 am",
+    "score":null,
+    "event_name":"South Callaway Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=197&alg=12&tournament=595794"
   },
   {
     "school_id":2,
@@ -21286,7 +21818,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"9\/21",
-    "event_time":"7:00 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Eldon",
     "location":"home",
@@ -21362,20 +21894,6 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=57&comp=2727914"
-  },
-  {
-    "school_id":1540,
-    "school_name":"Capital City High School",
-    "activity_name":"Golf Girls",
-    "alg":"24",
-    "level_of_play":"Varsity",
-    "event_date":"9\/21",
-    "event_time":null,
-    "score":null,
-    "event_name":"JC Invite",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1540&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=1540&alg=24&tournament=563806"
   },
   {
     "school_id":1540,
@@ -21534,20 +22052,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/21",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Smith-Cotton",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762385"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Volleyball Girls",
     "alg":"57",
     "level_of_play":"Varsity",
@@ -21670,20 +22174,6 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=80&alg=38&comp=2648451"
-  },
-  {
-    "school_id":80,
-    "school_name":"Fulton High School",
-    "activity_name":"Tennis Girls",
-    "alg":"49",
-    "level_of_play":"Varsity",
-    "event_date":"9\/21",
-    "event_time":"4:00 pm",
-    "score":null,
-    "event_name":"Mexico",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=49",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=80&alg=49&comp=2745182"
   },
   {
     "school_id":80,
@@ -22114,7 +22604,7 @@
     "event_date":"9\/21",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=194&alg=38&comp=2657347"
@@ -22132,6 +22622,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=194&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=194&alg=57&comp=2643402"
+  },
+  {
+    "school_id":197,
+    "school_name":"South Callaway High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/21",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fulton Quad",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=197&alg=24&tournament=595865"
   },
   {
     "school_id":197,
@@ -22338,7 +22842,7 @@
     "event_date":"9\/22",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=38&comp=2762835"
@@ -22384,20 +22888,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=11",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=11&tournament=592057"
-  },
-  {
-    "school_id":582,
-    "school_name":"California High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/22",
-    "event_time":null,
-    "score":null,
-    "event_name":"Boonville Meet",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=12&tournament=592056"
   },
   {
     "school_id":582,
@@ -22640,20 +23130,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/22",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Boonville",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762432"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Swimming and Diving Boys",
     "alg":"44",
     "level_of_play":"Varsity",
@@ -22790,20 +23266,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=11",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=11&tournament=592235"
-  },
-  {
-    "school_id":294,
-    "school_name":"Fayette High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/22",
-    "event_time":null,
-    "score":null,
-    "event_name":"Boonville Meet",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=12&tournament=592236"
   },
   {
     "school_id":294,
@@ -23126,20 +23588,6 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=85&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=85&alg=57&comp=2744138"
-  },
-  {
-    "school_id":317,
-    "school_name":"Higbee High School",
-    "activity_name":"Cross Country Boys",
-    "alg":"11",
-    "level_of_play":"Varsity",
-    "event_date":"9\/22",
-    "event_time":null,
-    "score":null,
-    "event_name":"Boonville Meet",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=11",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=317&alg=11&tournament=592059"
   },
   {
     "school_id":317,
@@ -23886,20 +24334,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/23",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Helias Catholic",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762402"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -24116,7 +24550,7 @@
     "event_date":"9\/23",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=522&alg=38&comp=2681340"
@@ -24158,7 +24592,7 @@
     "event_date":"9\/23",
     "event_time":"5:30 pm",
     "score":null,
-    "event_name":"Brunswick",
+    "event_name":"Brunswick with Keytesville, Northwestern (Mendon)",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=317&alg=38&comp=2626906"
@@ -24176,6 +24610,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=84&alg=24&tournament=576806"
+  },
+  {
+    "school_id":84,
+    "school_name":"Jefferson City High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"9\/23",
+    "event_time":"5:30 pm",
+    "score":null,
+    "event_name":"Rock Bridge",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=84&alg=38&comp=2780521"
   },
   {
     "school_id":84,
@@ -24316,6 +24764,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=24&comp=2753454"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Softball Fall Season",
+    "alg":"38",
+    "level_of_play":"Varsity",
+    "event_date":"9\/23",
+    "event_time":"5:30 pm",
+    "score":null,
+    "event_name":"Jefferson City",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=38",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=38&comp=2780464"
   },
   {
     "school_id":430,
@@ -24640,6 +25102,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=49&comp=2742713"
   },
   {
+    "school_id":26,
+    "school_name":"Camdenton High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"9\/24",
+    "event_time":"6:00 pm",
+    "score":null,
+    "event_name":"Eldon",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=57&comp=2785292"
+  },
+  {
     "school_id":1540,
     "school_name":"Capital City High School",
     "activity_name":"Golf Girls",
@@ -24822,6 +25298,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=278&alg=38&tournament=553110"
   },
   {
+    "school_id":278,
+    "school_name":"Eldon High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"9\/24",
+    "event_time":"6:00 pm",
+    "score":null,
+    "event_name":"Camdenton",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=278&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=278&alg=57&comp=2784699"
+  },
+  {
     "school_id":917,
     "school_name":"Father Tolton",
     "activity_name":"Soccer Boys",
@@ -24936,6 +25426,34 @@
   {
     "school_id":302,
     "school_name":"Glasgow High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/24",
+    "event_time":null,
+    "score":null,
+    "event_name":"Chillicothe High School Invitational Meet",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=302&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=302&alg=11&tournament=595719"
+  },
+  {
+    "school_id":302,
+    "school_name":"Glasgow High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/24",
+    "event_time":null,
+    "score":null,
+    "event_name":"Chillicothe Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=302&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=302&alg=12&tournament=595720"
+  },
+  {
+    "school_id":302,
+    "school_name":"Glasgow High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -25009,13 +25527,27 @@
     "activity_name":"Soccer Boys",
     "alg":"33",
     "level_of_play":"Varsity",
-    "event_date":"9\/24-26",
+    "event_date":"9\/24-25",
     "event_time":null,
     "score":null,
     "event_name":"Richard Wilson Shootout",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=522&alg=33&tournament=582289"
+  },
+  {
+    "school_id":522,
+    "school_name":"Helias High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/24",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Southern Boone",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=522&alg=33&comp=2784294"
   },
   {
     "school_id":522,
@@ -25166,7 +25698,7 @@
     "event_date":"9\/24",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Lutheran St. Charles",
+    "event_name":"Lutheran St. Charles with Veritas Christian Academy",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=128&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=128&alg=38&comp=2764272"
@@ -25324,20 +25856,6 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=152&alg=38&comp=2656329"
-  },
-  {
-    "school_id":152,
-    "school_name":"Osage High School",
-    "activity_name":"Tennis Girls",
-    "alg":"49",
-    "level_of_play":"Varsity",
-    "event_date":"9\/24",
-    "event_time":"4:30 pm",
-    "score":null,
-    "event_name":"Columbia Independent",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=49",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=152&alg=49&comp=2697356"
   },
   {
     "school_id":578,
@@ -25594,6 +26112,20 @@
   {
     "school_id":2,
     "school_name":"Southern Boone High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/24",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Helias Catholic",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=33&comp=2784177"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -25716,6 +26248,20 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=19&comp=2767240"
+  },
+  {
+    "school_id":26,
+    "school_name":"Camdenton High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"9\/25",
+    "event_time":"1:00 pm",
+    "score":null,
+    "event_name":"Southern Boone",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=26&alg=33&comp=2782008"
   },
   {
     "school_id":1540,
@@ -25914,6 +26460,20 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=80&alg=24&tournament=579523"
   },
   {
+    "school_id":302,
+    "school_name":"Glasgow High School",
+    "activity_name":"Baseball Fall Season",
+    "alg":"66",
+    "level_of_play":"Varsity",
+    "event_date":"9\/25",
+    "event_time":"5:00 pm",
+    "score":null,
+    "event_name":"Central MO HS HSA",
+    "location":"home",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=302&alg=66",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=302&alg=66&comp=2783068"
+  },
+  {
     "school_id":311,
     "school_name":"Hallsville High School",
     "activity_name":"Football",
@@ -25968,6 +26528,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=522&alg=19&comp=2627941"
+  },
+  {
+    "school_id":522,
+    "school_name":"Helias High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/25",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Lutheran St. Charles",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=522&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=522&alg=33&comp=2784295"
   },
   {
     "school_id":522,
@@ -26202,10 +26776,10 @@
     "event_date":"9\/25",
     "event_time":"7:00 pm",
     "score":null,
-    "event_name":"Central (Springfield)",
+    "event_name":"Rolla",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=132&alg=19",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=132&alg=19&comp=2685540"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=132&alg=19&comp=2785841"
   },
   {
     "school_id":132,
@@ -26262,6 +26836,34 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=152&alg=38&comp=2656330"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/25",
+    "event_time":null,
+    "score":null,
+    "event_name":"Gans Creek Twilight",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=11&tournament=596589"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/25",
+    "event_time":null,
+    "score":null,
+    "event_name":"Gans Creek Twilight",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=12&tournament=596602"
   },
   {
     "school_id":578,
@@ -26412,10 +27014,24 @@
     "event_date":"9\/25",
     "event_time":"7:00 pm",
     "score":null,
-    "event_name":"Tipton",
+    "event_name":"Tipton with Bunceton",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=197&alg=19&comp=2647635"
+  },
+  {
+    "school_id":197,
+    "school_name":"South Callaway High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"9\/25",
+    "event_time":null,
+    "score":null,
+    "event_name":"Callaway Cup",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=197&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=197&alg=24&tournament=595866"
   },
   {
     "school_id":2,
@@ -26430,6 +27046,34 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=19&comp=2599043"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/25",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Camdenton",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=33&comp=2784178"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/25",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Jefferson City",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=2&alg=33&comp=2784181"
   },
   {
     "school_id":474,
@@ -26458,6 +27102,34 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=485&alg=19",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=485&alg=19&comp=2516328"
+  },
+  {
+    "school_id":953,
+    "school_name":"Battle High School",
+    "activity_name":"Cross Country Boys",
+    "alg":"11",
+    "level_of_play":"Varsity",
+    "event_date":"9\/26",
+    "event_time":null,
+    "score":null,
+    "event_name":"Gans Creek Classic",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=11",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=11&tournament=597910"
+  },
+  {
+    "school_id":953,
+    "school_name":"Battle High School",
+    "activity_name":"Cross Country Girls",
+    "alg":"12",
+    "level_of_play":"Varsity",
+    "event_date":"9\/26",
+    "event_time":null,
+    "score":null,
+    "event_name":"Gans Creek Classic",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=12",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=12&tournament=597916"
   },
   {
     "school_id":953,
@@ -26542,20 +27214,6 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=11",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=11&tournament=544407"
-  },
-  {
-    "school_id":582,
-    "school_name":"California High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"9\/26",
-    "event_time":null,
-    "score":null,
-    "event_name":"Gans Creek Classic",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=12&tournament=544416"
   },
   {
     "school_id":582,
@@ -27454,6 +28112,62 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=578&alg=57&tournament=579206"
   },
   {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/26",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Blue Springs",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784576"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/26",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Grain Valley",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784577"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/26",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"North Point",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784578"
+  },
+  {
+    "school_id":578,
+    "school_name":"Rock Bridge High School",
+    "activity_name":"Volleyball Girls",
+    "alg":"57",
+    "level_of_play":"Varsity",
+    "event_date":"\u2937 9\/26",
+    "event_time":"TBD",
+    "score":null,
+    "event_name":"Westminster Christian Academy",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=57",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=57&comp=2784580"
+  },
+  {
     "school_id":430,
     "school_name":"Russellville High School",
     "activity_name":"Cross Country Boys",
@@ -27714,10 +28428,10 @@
     "event_date":"9\/28",
     "event_time":null,
     "score":null,
-    "event_name":"Columbia Quad",
+    "event_name":"Lady Jays Invitational",
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=24&tournament=589044"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=24&tournament=597009"
   },
   {
     "school_id":953,
@@ -28244,7 +28958,7 @@
     "alg":"38",
     "level_of_play":"Varsity",
     "event_date":"9\/28",
-    "event_time":"4:30 pm",
+    "event_time":"5:00 pm",
     "score":null,
     "event_name":"Union",
     "location":"home",
@@ -28272,7 +28986,7 @@
     "alg":"24",
     "level_of_play":"Varsity",
     "event_date":"9\/28",
-    "event_time":null,
+    "event_time":"10:00 am",
     "score":null,
     "event_name":"Conference Tournament",
     "location":"tournament",
@@ -28530,20 +29244,6 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=430&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=430&alg=57&comp=2669284"
-  },
-  {
-    "school_id":431,
-    "school_name":"Salisbury High School",
-    "activity_name":"Golf Girls",
-    "alg":"24",
-    "level_of_play":"Varsity",
-    "event_date":"9\/28",
-    "event_time":null,
-    "score":null,
-    "event_name":"New Bloomfield Girls Golf Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=431&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=431&alg=24&tournament=545817"
   },
   {
     "school_id":431,
@@ -29080,20 +29780,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"9\/29",
-    "event_time":"5:00 pm",
-    "score":null,
-    "event_name":"Jefferson City",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=38&comp=2762403"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Volleyball Girls",
     "alg":"57",
     "level_of_play":"Varsity",
@@ -29282,7 +29968,7 @@
     "event_date":"9\/29",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Brunswick",
+    "event_name":"Brunswick with Keytesville, Northwestern (Mendon)",
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=302&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=302&alg=38&comp=2737356"
@@ -29534,7 +30220,7 @@
     "event_date":"9\/29",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Battle with Columbia Independent",
+    "event_name":"Battle",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=84&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=84&alg=38&comp=2639948"
@@ -30128,20 +30814,6 @@
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=278&alg=24&comp=2758807"
   },
   {
-    "school_id":278,
-    "school_name":"Eldon High School",
-    "activity_name":"Golf Girls",
-    "alg":"24",
-    "level_of_play":"Varsity",
-    "event_date":"\u2937 9\/30",
-    "event_time":"TBD",
-    "score":null,
-    "event_name":"Bolivar",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=278&alg=24",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=278&alg=24&comp=2758808"
-  },
-  {
     "school_id":917,
     "school_name":"Father Tolton",
     "activity_name":"Tennis Girls",
@@ -30330,24 +31002,10 @@
     "alg":"44",
     "level_of_play":"Varsity",
     "event_date":"9\/30",
-    "event_time":"6:00 pm",
-    "score":null,
-    "event_name":"Raytown South",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=44",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=44&comp=2773839"
-  },
-  {
-    "school_id":360,
-    "school_name":"Marshall High School",
-    "activity_name":"Swimming and Diving Boys",
-    "alg":"44",
-    "level_of_play":"Varsity",
-    "event_date":"9\/30",
     "event_time":"5:00 pm",
     "score":null,
     "event_name":"Belton",
-    "location":"home",
+    "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=44",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=44&comp=2773841"
   },
@@ -30414,7 +31072,7 @@
     "alg":"38",
     "level_of_play":"Varsity",
     "event_date":"9\/30",
-    "event_time":"5:00 pm",
+    "event_time":"3:00 pm",
     "score":null,
     "event_name":"Fatima",
     "location":"home",
@@ -30550,6 +31208,20 @@
   {
     "school_id":953,
     "school_name":"Battle High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":null,
+    "score":null,
+    "event_name":"CMAC Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=953&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=953&alg=24&tournament=597007"
+  },
+  {
+    "school_id":953,
+    "school_name":"Battle High School",
     "activity_name":"Tennis Girls",
     "alg":"49",
     "level_of_play":"Varsity",
@@ -30640,10 +31312,10 @@
     "event_date":"10\/1",
     "event_time":"5:00 pm",
     "score":null,
-    "event_name":"Stover",
+    "event_name":"Knob Noster",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=33",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=33&comp=2696310"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=33&comp=2784068"
   },
   {
     "school_id":16,
@@ -30680,12 +31352,26 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"10\/1",
-    "event_time":"7:00 pm",
+    "event_time":"6:00 pm",
     "score":null,
     "event_name":"Fulton",
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=16&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=16&alg=57&comp=2662550"
+  },
+  {
+    "school_id":582,
+    "school_name":"California High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fulton Classic Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=582&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=582&alg=24&tournament=596410"
   },
   {
     "school_id":582,
@@ -30728,6 +31414,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=24&tournament=568367"
+  },
+  {
+    "school_id":26,
+    "school_name":"Camdenton High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1-3",
+    "event_time":null,
+    "score":null,
+    "event_name":"Laker Shootout",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=26&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=26&alg=33&tournament=571169"
   },
   {
     "school_id":26,
@@ -30816,6 +31516,20 @@
   {
     "school_id":1099,
     "school_name":"Christian Fellowship",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":"6:30 pm",
+    "score":null,
+    "event_name":"Hickman (JV)",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=1099&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=1099&alg=33&comp=2720994"
+  },
+  {
+    "school_id":1099,
+    "school_name":"Christian Fellowship",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -30872,20 +31586,6 @@
   {
     "school_id":566,
     "school_name":"Columbia Independent",
-    "activity_name":"Tennis Girls",
-    "alg":"49",
-    "level_of_play":"Varsity",
-    "event_date":"10\/1",
-    "event_time":"4:30 pm",
-    "score":null,
-    "event_name":"Marshall",
-    "location":"away",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=566&alg=49",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=566&alg=49&comp=2766277"
-  },
-  {
-    "school_id":566,
-    "school_name":"Columbia Independent",
     "activity_name":"Volleyball Girls",
     "alg":"57",
     "level_of_play":"Varsity",
@@ -30924,6 +31624,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=278&alg=12",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=278&alg=12&tournament=544994"
+  },
+  {
+    "school_id":278,
+    "school_name":"Eldon High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fulton Classic Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=278&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=278&alg=24&tournament=589274"
   },
   {
     "school_id":278,
@@ -30984,20 +31698,6 @@
   {
     "school_id":294,
     "school_name":"Fayette High School",
-    "activity_name":"Cross Country Girls",
-    "alg":"12",
-    "level_of_play":"Varsity",
-    "event_date":"10\/1",
-    "event_time":null,
-    "score":null,
-    "event_name":"Moberly Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=294&alg=12",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=294&alg=12&tournament=590173"
-  },
-  {
-    "school_id":294,
-    "school_name":"Fayette High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -31012,6 +31712,20 @@
   {
     "school_id":80,
     "school_name":"Fulton High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":"10:00 am",
+    "score":null,
+    "event_name":"Fulton Classic Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=80&alg=24&tournament=596292"
+  },
+  {
+    "school_id":80,
+    "school_name":"Fulton High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -31022,6 +31736,20 @@
     "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=38",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=80&alg=38&comp=2681986"
+  },
+  {
+    "school_id":80,
+    "school_name":"Fulton High School",
+    "activity_name":"Tennis Girls",
+    "alg":"49",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":"4:00 pm",
+    "score":null,
+    "event_name":"Mexico",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=80&alg=49",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=80&alg=49&comp=2780504"
   },
   {
     "school_id":80,
@@ -31082,6 +31810,20 @@
   {
     "school_id":302,
     "school_name":"Glasgow High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":null,
+    "score":null,
+    "event_name":"Brookfield Girls Golf Invitational",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=302&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=302&alg=24&tournament=596147"
+  },
+  {
+    "school_id":302,
+    "school_name":"Glasgow High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -31134,6 +31876,20 @@
     "location":"tournament",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=311&alg=24",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=311&alg=24&tournament=579474"
+  },
+  {
+    "school_id":311,
+    "school_name":"Hallsville High School",
+    "activity_name":"Soccer Boys",
+    "alg":"33",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":"6:30 pm",
+    "score":null,
+    "event_name":"Hickman (JV)",
+    "location":"away",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=311&alg=33",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=311&alg=33&comp=2720994"
   },
   {
     "school_id":311,
@@ -31236,20 +31992,6 @@
   {
     "school_id":317,
     "school_name":"Higbee High School",
-    "activity_name":"Cross Country Boys",
-    "alg":"11",
-    "level_of_play":"Varsity",
-    "event_date":"10\/1",
-    "event_time":null,
-    "score":null,
-    "event_name":"Moberly Invitational",
-    "location":"tournament",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=317&alg=11",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=317&alg=11&tournament=584872"
-  },
-  {
-    "school_id":317,
-    "school_name":"Higbee High School",
     "activity_name":"Cross Country Girls",
     "alg":"12",
     "level_of_play":"Varsity",
@@ -31341,23 +32083,9 @@
     "event_time":"5:00 pm",
     "score":null,
     "event_name":"Smith-Cotton",
-    "location":"home",
+    "location":"away",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=38&comp=2650346"
-  },
-  {
-    "school_id":360,
-    "school_name":"Marshall High School",
-    "activity_name":"Tennis Girls",
-    "alg":"49",
-    "level_of_play":"Varsity",
-    "event_date":"10\/1",
-    "event_time":"4:30 pm",
-    "score":null,
-    "event_name":"Columbia Independent",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=49",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=49&comp=2661605"
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=38&comp=2779787"
   },
   {
     "school_id":360,
@@ -31372,6 +32100,20 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=360&alg=57",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=360&alg=57&comp=2661612"
+  },
+  {
+    "school_id":128,
+    "school_name":"Mexico High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fulton Classic Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=128&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=128&alg=24&tournament=596455"
   },
   {
     "school_id":128,
@@ -31474,6 +32216,20 @@
   {
     "school_id":132,
     "school_name":"Moberly High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fulton Classic Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=132&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=132&alg=24&tournament=596421"
+  },
+  {
+    "school_id":132,
+    "school_name":"Moberly High School",
     "activity_name":"Soccer Boys",
     "alg":"33",
     "level_of_play":"Varsity",
@@ -31544,16 +32300,16 @@
   {
     "school_id":152,
     "school_name":"Osage High School",
-    "activity_name":"Soccer Boys",
-    "alg":"33",
+    "activity_name":"Golf Girls",
+    "alg":"24",
     "level_of_play":"Varsity",
     "event_date":"10\/1",
-    "event_time":"6:45 pm",
+    "event_time":null,
     "score":null,
-    "event_name":"Central (Springfield)",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=33",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=152&alg=33&comp=2653424"
+    "event_name":"Fulton Classic Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=152&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=152&alg=24&tournament=596677"
   },
   {
     "school_id":152,
@@ -31596,20 +32352,6 @@
     "location":"home",
     "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=33",
     "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=33&comp=2652485"
-  },
-  {
-    "school_id":578,
-    "school_name":"Rock Bridge High School",
-    "activity_name":"Softball Fall Season",
-    "alg":"38",
-    "level_of_play":"Varsity",
-    "event_date":"10\/1",
-    "event_time":"5:30 pm",
-    "score":null,
-    "event_name":"Jefferson City",
-    "location":"home",
-    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=578&alg=38",
-    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Matchup.aspx?s=578&alg=38&comp=2767305"
   },
   {
     "school_id":430,
@@ -31838,6 +32580,20 @@
   {
     "school_id":2,
     "school_name":"Southern Boone High School",
+    "activity_name":"Golf Girls",
+    "alg":"24",
+    "level_of_play":"Varsity",
+    "event_date":"10\/1",
+    "event_time":null,
+    "score":null,
+    "event_name":"Fulton Classic Tournament",
+    "location":"tournament",
+    "source_activity_url":"https:\/\/www.mshsaa.org\/MySchool\/Schedule.aspx?s=2&alg=24",
+    "matchup_link":"https:\/\/www.mshsaa.org\/MySchool\/Tournament.aspx?s=2&alg=24&tournament=596296"
+  },
+  {
+    "school_id":2,
+    "school_name":"Southern Boone High School",
     "activity_name":"Softball Fall Season",
     "alg":"38",
     "level_of_play":"Varsity",
@@ -31926,7 +32682,7 @@
     "alg":"57",
     "level_of_play":"Varsity",
     "event_date":"10\/1",
-    "event_time":"7:00 pm",
+    "event_time":"6:15 pm",
     "score":null,
     "event_name":"El Dorado Springs",
     "location":"home",
